@@ -1,0 +1,13 @@
+﻿[
+  {
+    "name":"一汽奥迪-A4L",
+    "style":"2019款 35 TFSI 进取型 国V",
+    "price":28.68,
+    "speed":205,
+    "accelerate speed":9.4,
+    "maintenance period":7500,
+    "weight":1535,
+    "displacement":1.4,
+    "housepower":150,
+    "power":78.6
+  },{"name":"一汽奥迪-A4L","style":"2019款 45 TFSI quattro 个性运动版 国V","price":36.28,"speed":250,"accelerate speed":5.9,"maintenance period":7500,"weight":1645,"displacement":2.0,"housepower":116,"power":42.5},{"name":"一汽奥迪-A4L","style":"2019款 45 TFSI quattro 个性运动版 国VI","price":36.28,"speed":239,"accelerate speed":6.5,"maintenance period":7500,"weight":1670,"displacement":2.0,"housepower":116,"power":42.5},{"name":"一汽奥迪-A4L","style":"2019款 45 TFSI quattro 运动型 国V","price":40.18,"speed":250,"accelerate speed":5.9,"maintenance period":7500,"weight":1645,"displacement":2.0,"housepower":116,"power":42.5},{"name":"一汽奥迪-A4L","style":"2019款 45 TFSI quattro 运动型 国VI","price":40.18,"speed":239,"accelerate speed":6.5,"maintenance period":7500,"weight":1670,"displacement":2.0,"housepower":116,"power":42.5},{"name":"一汽奥迪-A4L","style":"2019款 35 TFSI 进取型 国VI","price":28.68,"speed":205,"accelerate speed":9.4,"maintenance period":7500,"weight":1535,"displacement":2.0,"housepower":150,"power":55.0},{"name":"一汽奥迪-A4L","style":"2019款 40 TFSI 进取型 国VI","price":30.08,"speed":233,"accelerate speed":7.9,"maintenance period":7500,"weight":1565,"displacement":2.0,"housepower":190,"power":70.0},{"name":"一汽奥迪-A4L","style":"2019款 40 TFSI 运动型 国V","price":36.28,"speed":233,"accelerate speed":7.9,"maintenance period":7500,"weight":1565,"displacement":2.0,"housepower":190,"power":70.0},{"name":"一汽奥迪-A4L","style":"2019款 40 TFSI 时尚型 国VI","price":33.58,"speed":233,"accelerate speed":7.9,"maintenance period":7500,"weight":1565,"displacement":2.0,"housepower":190,"power":70.0},{"name":"一汽奥迪-A4L","style":"2019款 40 TFSI 进取型 国V","price":30.08,"speed":233,"accelerate speed":7.9,"maintenance period":7500,"weight":1565,"displacement":2.0,"housepower":190,"power":70.0}]
