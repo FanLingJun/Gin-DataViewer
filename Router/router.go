@@ -14,17 +14,16 @@ func RouterInit(router *gin.Engine) {
   router.GET("/", func(c *gin.Context) {
     c.String(http.StatusOK, "It works On 8081")
   })
-  //router.GET("/FPList", FPList.GetList)
 
 
-  b, err := ioutil.ReadFile("cartest.json")
+  /*b, err := ioutil.ReadFile("cartest.json")
   if err != nil {
     fmt.Print(err)
   }
   str := string(b)
   router.GET("/data",func(c *gin.Context) {
     c.String(http.StatusOK,"%s",str)
-  })
+  })*/
 
   a, err := ioutil.ReadFile("testnumber.json")
   if err != nil {
@@ -55,7 +54,4 @@ func RouterInit(router *gin.Engine) {
   router.GET("/saleNumber",func(c *gin.Context) {
     c.String(http.StatusOK,"%s",str_sale_number)
   })
-
-
-
 }

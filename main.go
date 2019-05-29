@@ -3,7 +3,7 @@ package main
 import (
   "awesomeProject/Router"
 
-  _ "awesomeProject/FPList"
+  //_ "awesomeProject/FPList"
 
   "github.com/gin-gonic/gin"
 )
